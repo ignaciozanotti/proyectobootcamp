@@ -1,5 +1,5 @@
 # Remove this if you want to version client side dependencies (not recommended).
-app/vendor
+# app/vendor
 
 # Node and build ignores
 node_modules

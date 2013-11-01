@@ -1,0 +1,13 @@
+{
+  "name": "jst",
+  "homepage": "https://github.com/ahutchings/require-jst",
+  "_release": "9a36583646",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9a36583646eb6b4cfeb6fc2da3360365b06f52b7"
+  },
+  "_source": "git://github.com/ahutchings/require-jst.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/ahutchings/require-jst"
+}
